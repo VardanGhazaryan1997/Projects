@@ -1,0 +1,42 @@
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.exe.config
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.exe
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.pdb
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.dll
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.xml
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csprojAssemblyReference.cache
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csproj.CopyComplete
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.exe
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.pdb
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineData.mdf
+C:\Users\varda\Desktop\New folder\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineData_log.ldf
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineData.mdf
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineData_log.ldf
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.exe.config
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.exe
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.pdb
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.dll
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.xml
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csprojAssemblyReference.cache
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csproj.CopyComplete
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.exe
+C:\Users\varda\Desktop\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.pdb
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineData.mdf
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineData_log.ldf
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.exe.config
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.exe
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\CoffeeMachineProgram.pdb
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.dll
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.xml
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csprojAssemblyReference.cache
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.csproj.CopyComplete
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.exe
+C:\Users\varda\Desktop\New folder cf\CoffeeMachineProgram\CoffeeMachineProgram\obj\Debug\CoffeeMachineProgram.pdb
